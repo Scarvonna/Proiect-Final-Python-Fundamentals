@@ -1,5 +1,3 @@
-#PARAMETRII IN EDIT CONFIGURATION SUNT TRECUTI CA ABSOLUTE PATH
-#trebuie adaugati inaintea rularii fisierului deoarece parametrii nu se salveaza
 import os
 import sys
 import Produs
